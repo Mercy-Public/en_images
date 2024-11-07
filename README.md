@@ -3,3 +3,6 @@
 ![image](https://github.com/user-attachments/assets/5a4f1b3e-af58-407e-8947-60f8bd85048f)
 ![image](https://github.com/user-attachments/assets/aa43541e-f512-4f85-bb5d-22395312b375)
 ![image](https://github.com/user-attachments/assets/99012815-324e-4a17-bb19-b899033818bf)
+
+
+They work for me they may work for you, if they do not work for you, feel free to not tell me about it. 
