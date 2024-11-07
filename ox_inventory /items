@@ -1,0 +1,432 @@
+ox_inventory
+
+    ["en_aluminum"] = {
+        label = "Aluminum",
+        stack = true,
+        weight = 100,
+    },
+    ["en_copper"] = {
+        label = "Copper",
+        stack = true,
+        weight = 100,
+    },
+    ["en_cushion"] = {
+        label = "Cushion",
+        stack = true,
+        weight = 100,
+    },
+    ["en_electronic1"] = {
+        label = "Electronic 1",
+        stack = true,
+        weight = 100,
+    },
+    ["en_electronic2"] = {
+        label = "Electronic 2",
+        stack = true,
+        weight = 100,
+    },
+    ["en_electronic3"] = {
+        label = "Electronic 3",
+        stack = true,
+        weight = 100,
+    },
+    ["en_electronic5"] = {
+        label = "Electronic 5",
+        stack = true,
+        weight = 100,
+    },
+    ["en_emerald"] = {
+        label = "Emerald",
+        stack = true,
+        weight = 100,
+    },
+    ["en_emerald2"] = {
+        label = "Emerald 2",
+        stack = true,
+        weight = 100,
+    },
+    ["en_heart"] = {
+        label = "Heart",
+        stack = true,
+        weight = 100,
+    },
+    ["en_intel"] = {
+        label = "Intel",
+        stack = true,
+        weight = 100,
+    },
+    ["en_marquise"] = {
+        label = "Marquise",
+        stack = true,
+        weight = 100,
+    },
+    ["en_oval"] = {
+        label = "Oval",
+        stack = true,
+        weight = 100,
+    },
+    ["en_pear"] = {
+        label = "Pear",
+        stack = true,
+        weight = 100,
+    },
+    ["en_princess"] = {
+        label = "Princess",
+        stack = true,
+        weight = 100,
+    },
+    ["en_radiant"] = {
+        label = "Radiant",
+        stack = true,
+        weight = 100,
+    },
+    ["en_rewardcase_1"] = {
+        label = "Reward Case 1",
+        stack = true,
+        weight = 100,
+    },
+    ["en_rewardcase_2"] = {
+        label = "Reward Case 2",
+        stack = true,
+        weight = 100,
+    },
+    ["en_rewardcase_3"] = {
+        label = "Reward Case 3",
+        stack = true,
+        weight = 100,
+    },
+    ["en_rewardcase_4"] = {
+        label = "Reward Case 4",
+        stack = true,
+        weight = 100,
+    },
+    ["en_rewardcase_5"] = {
+        label = "Reward Case 5",
+        stack = true,
+        weight = 100,
+    },
+    ["en_rewardcase_6"] = {
+        label = "Reward Case 6",
+        stack = true,
+        weight = 100,
+    },
+    ["en_rewardcase_7"] = {
+        label = "Reward Case 7",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_1"] = {
+        label = "Ring 1",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_2"] = {
+        label = "Ring 2",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_3"] = {
+        label = "Ring 3",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_4"] = {
+        label = "Ring 4",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_5"] = {
+        label = "Ring 5",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_6"] = {
+        label = "Ring 6",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_7"] = {
+        label = "Ring 7",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_8"] = {
+        label = "Ring 8",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_10"] = {
+        label = "Ring 10",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ring_11"] = {
+        label = "Ring 11",
+        stack = true,
+        weight = 100,
+    },
+    ["en_round"] = {
+        label = "Round",
+        stack = true,
+        weight = 100,
+    },
+    ["en_ruby"] = {
+        label = "Ruby",
+        stack = true,
+        weight = 100,
+    },
+    ["en_sapphire"] = {
+        label = "Sapphire",
+        stack = true,
+        weight = 100,
+    },
+    ["en_sapphire2"] = {
+        label = "Sapphire 2",
+        stack = true,
+        weight = 100,
+    },
+    ["en_sapphire3"] = {
+        label = "Sapphire 3",
+        stack = true,
+        weight = 100,
+    },
+    ["en_sapphire4"] = {
+        label = "Sapphire 4",
+        stack = true,
+        weight = 100,
+    },
+    ["en_titanium"] = {
+        label = "Titanium",
+        stack = true,
+        weight = 100,
+    },
+    ["en_tool1"] = {
+        label = "Tool 1",
+        stack = true,
+        weight = 100,
+    },
+    ["en_tool2"] = {
+        label = "Tool 2",
+        stack = true,
+        weight = 100,
+    },
+    ["en_tool3"] = {
+        label = "Tool 3",
+        stack = true,
+        weight = 100,
+    },
+    ["en_tool5"] = {
+        label = "Tool 5",
+        stack = true,
+        weight = 100,
+    },
+    ["en_tool6"] = {
+        label = "Tool 6",
+        stack = true,
+        weight = 100,
+    },
+    ["en_zinc"] = {
+        label = "Zinc",
+        stack = true,
+        weight = 100,
+    },
+    ["fgfrt5"] = {
+        label = "Fgfrt5",
+        stack = true,
+        weight = 100,
+    },
+    ["ggththg"] = {
+        label = "Ggththg",
+        stack = true,
+        weight = 100,
+    },
+    ["hght"] = {
+        label = "Hght",
+        stack = true,
+        weight = 100,
+    },    
+    ["c4_bomb"] = {
+        label = "C4",
+        stack = true,
+        close = true,
+        weight = 100,
+    },
+    ["en_coin_1"] = {
+        label = "Gold Coin 1",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_2"] = {
+        label = "Gold Coin 2",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_3"] = {
+        label = "Gold Coin 3",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_4"] = {
+        label = "Gold Coin 4",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_5"] = {
+        label = "Gold Coin 5",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_6"] = {
+        label = "Gold Coin 6",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_7"] = {
+        label = "Gold Coin 7",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_8"] = {
+        label = "Gold Coin 8",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_9"] = {
+        label = "Gold Coin 9",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_10"] = {
+        label = "Gold Coin 10",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_11"] = {
+        label = "Gold Coin 11",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_12"] = {
+        label = "Gold Coin 12",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_13"] = {
+        label = "Gold Coin 13",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_14"] = {
+        label = "Gold Coin 14",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_15"] = {
+        label = "Gold Coin 15",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_16"] = {
+        label = "Gold Coin 16",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_17"] = {
+        label = "Gold Coin 17",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_18"] = {
+        label = "Gold Coin 18",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_19"] = {
+        label = "Gold Coin 19",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_20"] = {
+        label = "Gold Coin 20",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_21"] = {
+        label = "Gold Coin 21",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_22"] = {
+        label = "Gold Coin 22",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_23"] = {
+        label = "Gold Coin 23",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_24"] = {
+        label = "Gold Coin 24",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_25"] = {
+        label = "Gold Coin 25",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_26"] = {
+        label = "Gold Coin 26",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_27"] = {
+        label = "Gold Coin 27",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_28"] = {
+        label = "Gold Coin 28",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_29"] = {
+        label = "Gold Coin 29",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_30"] = {
+        label = "Gold Coin 30",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_31"] = {
+        label = "Gold Coin 31",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_32"] = {
+        label = "Gold Coin 32",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_33"] = {
+        label = "Gold Coin 33",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_34"] = {
+        label = "Gold Coin 34",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_35"] = {
+        label = "Gold Coin 35",
+        stack = true,
+        weight = 100,
+    },
+    ["en_coin_36"] = {
+        label = "Gold Coin 36",
+        stack = true,
+        weight = 100,
