@@ -6,3 +6,4 @@
 
 
 They work for me they may work for you, if they do not work for you, feel free to not tell me about it. 
+If you do wanna tell me about it, my default response is i dont care. 
